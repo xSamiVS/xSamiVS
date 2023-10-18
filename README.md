@@ -1,4 +1,4 @@
-<h1 align="center">xSamiVS (Sam Taieb)</h1><br>
+<h1 align="center">𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓹𝓻𝓸𝓯𝓲𝓵𝓮</h1><br>
 
 ## Contact
 - 📧 Email: [samtaieb@xsamivs.com](mailto:samtaieb@xsamivs.com)
