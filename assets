@@ -1,1 +1,3 @@
-{'xVSPoliceBelt': 1.0, 'xVSDevelopment': 2.0}
+{
+    ["xVSPoliceBelt"] = 1.0,
+}
