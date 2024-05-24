@@ -2,11 +2,8 @@
 <br>
 
 ## » Contact
-- <b>📧 Email:</b> [samtaieb@xsamivs.com](mailto:samtaieb@xsamivs.com)
 - <b>🐦 Twitter:</b> [@xSamiVS](https://twitter.com/xSamiVS)
-- <b>🌐 Website:</b> [xsamivs.com](https://xsamivs.com)
-- <b>🏬 Tebex:</b> [store.xsamivs.com](https://store.xsamivs.com)
-- <b>💬 Discord:</b> [discord.xsamivs.com](https://discord.xsamivs.com)
+- <b>💬 Discord:</b> [@xSamiVS](https://discord.gg/M9gmnHt)
 <br>
 
 ## » GitHub Statistics
