@@ -2,12 +2,7 @@
 <br>
 
 ## » Contact
-- <b>🌍 Website:</b> [Visit](https://twitter.xsamivs.us.kg/)
-- <b>💬 Discord:</b> [@xSamiVS](https://discord.xsamivs.us.kg/)
-- <b>🐦 Twitter:</b> [@xSamiVS](https://twitter.xsamivs.us.kg/)
-- <b>🖥️ Twitch:</b> [@xSamiVS](https://twitch.xsamivs.us.kg/)
-- <b>🎮 Steam:</b> [@xSamiVS](https://steam.xsamivs.us.kg/)
-<br>
+<p align="center"><b>🌍 <a href="https://twitter.xsamivs.us.kg">Website</a> | 💬 <a href="https://discord.xsamivs.us.kg">Discord</a> | 🐦 <a href="https://twitter.xsamivs.us.kg">Twitter</a> | 🖥️ <a href="https://twitch.xsamivs.us.kg">Twitch</a> | 🎮 <a href="https://steam.xsamivs.us.kg">Steam</a></b></p>
 
 ## » GitHub Statistics
 ![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=xsamivs&show_icons=true&theme=dark)
