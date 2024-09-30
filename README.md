@@ -2,8 +2,11 @@
 <br>
 
 ## » Contact
-- <b>🐦 Twitter:</b> [@xSamiVS](https://twitter.com/xSamiVS)
-- <b>💬 Discord:</b> [@xSamiVS](https://discord.gg/M9gmnHt)
+- <b>🌍 Website:</b> [Visit](https://twitter.xsamivs.us.kg/)
+- <b>💬 Discord:</b> [@xSamiVS](https://discord.xsamivs.us.kg/)
+- <b>🐦 Twitter:</b> [@xSamiVS](https://twitter.xsamivs.us.kg/)
+- <b>🖥️ Twitch:</b> [@xSamiVS](https://twitch.xsamivs.us.kg/)
+- <b>🎮 Steam:</b> [@xSamiVS](https://steam.xsamivs.us.kg/)
 <br>
 
 ## » GitHub Statistics
